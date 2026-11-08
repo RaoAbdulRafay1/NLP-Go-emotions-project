@@ -1,6 +1,6 @@
 # NLP Project — Emotion classification of Reddit comments (GoEmotions)
 
- · Members: `Rao Abdul Rafay L1F23BSCS1178 Salman Khalid L1F23BSCS0058 Kashif Masih L1F23BSCS1179 Arooj Fatima L1F23BSCS1208` (2–5 members)
+ · Members: `Rao Abdul Rafay L1F23BSCS1178 Salman Khalid L1F23BSCS0058 Kashif Masih L1F23BSCS1179 Arooj Fatima L1F23BSCS1181` (2–5 members)
 
 ## Topic & dataset
 - **Dataset:** GoEmotions (Demszky et al., 2020) — 58k English Reddit comments labelled with 27 emotions + neutral.
