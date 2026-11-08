@@ -1,0 +1,7 @@
+# raw data is never committed (downloaded by src/data_loader.py)
+data/raw/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
